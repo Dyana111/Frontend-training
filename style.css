@@ -1,5 +1,15 @@
+body{
+    background-color:rgb(243, 236, 239);
+    color: rgb(8, 56, 16);
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
 .myheading{
-    background-color: blueviolet;
+    background-color: rgb(36,0,0);
+    background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(176,94,17,1) 35%, rgba(11,68,43,1) 59%, rgba(175,19,62,1) 100%);
+    font-family: 'Ms Madi', cursive;
 
 }
 #hid{
@@ -8,3 +18,5 @@
 #pid{
     background-color: rgb(197, 35, 118);
 }
+
+
