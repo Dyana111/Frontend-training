@@ -7,10 +7,11 @@ body{
 
 
 .myheading{
-    background-color: rgb(36,0,0);
-    background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(176,94,17,1) 35%, rgba(11,68,43,1) 59%, rgba(175,19,62,1) 100%);
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%,
+     rgba(93,182,82,0.9925012241224614) 46%, rgba(252,70,107,1) 100%);
     font-family: 'Ms Madi', cursive;
-
+    
 }
 #hid{
     background-color: rosybrown;
