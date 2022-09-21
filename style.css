@@ -1,8 +1,7 @@
 body{
     background-color:rgb(243, 236, 239);
     color: rgb(8, 56, 16);
-    font-family: 'Ms Madi', cursive;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Roboto", "Noto", sans-serif;
 }
 
 .youtube{
@@ -31,4 +30,30 @@ body{
     background-color: rgb(197, 35, 118);
 }
 
+.card{
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+}
 
+.card:hover{
+    border: 2px solid #FF5050;
+}
+.mylink{
+    text-decoration:none; border: 1px solid black;
+    border-radius: 5px; margin-left: 5px;
+     margin-left: 22px; margin-right: 22px;
+     color: black; 
+     background-color: rgba(247, 237, 237, 0.674);
+    
+   
+}
+
+.card:hover a{
+    background-color: #FF5050;
+    color: white;
+}
