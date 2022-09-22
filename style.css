@@ -44,8 +44,8 @@ body{
     border: 2px solid #FF5050;
 }
 .mylink{
-    text-decoration:none; border: 1px solid black;
-    border-radius: 5px; margin-left: 5px;
+     text-decoration:none; border: 1px solid black;
+     border-radius: 5px; margin-left: 5px;
      margin-left: 22px; margin-right: 22px;
      color: black; 
      background-color: rgba(247, 237, 237, 0.674);
@@ -57,3 +57,4 @@ body{
     background-color: #FF5050;
     color: white;
 }
+
